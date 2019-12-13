@@ -35,7 +35,7 @@ soupsieve==1.7.2
 sqlparse==0.2.4
 toml==0.10.0
 uritemplate==3.0.0
-urllib3==1.24.1
+urllib3==1.24.2
 matplotlib==3.0.3
 Pillow==6.0.0
 psycopg2-binary==2.8.2
